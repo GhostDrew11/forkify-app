@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="img/logo.png" width="100" />
+  <img alt="Logo" src="/src/img/logo.png" width="100" />
 </div>
 <h1 align="center">
   Forkify
