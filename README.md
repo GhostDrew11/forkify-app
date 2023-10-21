@@ -16,6 +16,10 @@ Simple vanilla JS web application <a href="https://forkify-armel.netlify.app/" t
   </a>
 </p>
 
+<div align="center">
+  <img alt="Demo" src="/src/img/Demo.png" width="100" />
+</div>
+
 ## Installation and Set up
 
 1. Install Dependencies
