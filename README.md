@@ -2,7 +2,7 @@
   <img alt="Logo" src="/src/img/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Forkify
+  Forkify Project
 </h1>
 <p align="center">
 
